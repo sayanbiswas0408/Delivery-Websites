@@ -1,0 +1,19 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home Section */
+#home{
+    flex-direction: column;
+}
+
+/* Services section */
+#services{
+    flex-direction: column;
+}
+
+/* Clients section */
+#clients{
+    overflow: hidden;
+}
